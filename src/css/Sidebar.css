@@ -1,0 +1,14 @@
+.itm:hover{
+    background-color:rgb(20, 117, 220) ;
+}
+.itm{
+    display: block;
+    font-size: larger;
+}
+@media screen and (max-width:776px) {
+    .sidebar-title{
+        display: none;
+    }
+   
+}
+

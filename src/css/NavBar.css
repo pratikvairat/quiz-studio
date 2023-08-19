@@ -1,0 +1,12 @@
+.h-screen {
+    height: 100vmax;
+    position: fixed;
+    top: 5vw;
+    background-color: black;
+    left: 0;
+}
+.navBar{
+    position: fixed;
+    top:0;
+    width:100vw;
+}
